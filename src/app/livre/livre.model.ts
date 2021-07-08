@@ -1,4 +1,4 @@
-import { PLATFORM_INITIALIZER } from "@angular/core"
+
 export class livre
 {
   titre:string;
